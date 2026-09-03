@@ -1,0 +1,4 @@
+py -m ensurepip --upgrade
+py -m pip install --upgrade pip
+py -m pip install requests
+py -m pip install streamlit pandas openpyxl msoffcrypto-tool xlrd xlwt
